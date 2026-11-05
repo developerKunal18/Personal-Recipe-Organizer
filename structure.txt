@@ -1,0 +1,26 @@
+1. Features
+Add new recipes.
+View all saved recipes.
+Search recipes by name or ingredient.
+Filter recipes by category.
+Update recipe details.
+Delete recipes.
+Store ingredients and preparation instructions.
+Track preparation and cooking time.
+Generate a recipe summary report.
+
+2. Project structure
+Personal_Recipe_Organizer/
+│
+├── main.py
+├── config.py
+├── storage.py
+├── utils.py
+├── recipe_manager.py
+├── report_manager.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+└── data/
+    └── recipes.json
